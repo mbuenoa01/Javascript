@@ -1,6 +1,0 @@
-{ 
-"head":{ "link": [], "vars": ["img_src1", "img_src2", "img_src3", "titulo", "descripcion", "valoracion", "precio","enlace"] },
-  "results": { "distinct": false, "ordered": true, "bindings": [
-    { "img_src1": { "type": "uri", "value": "https://images-na.ssl-images-amazon.com/images/I/61T1GbPfxcL._AC_SL1200_.jpg" }, "img_src2": { "type": "uri", "value": "https://images-na.ssl-images-amazon.com/images/I/61jY9Dyts0L._AC_SL1200_.jpg" }, "img_src3": { "type": "uri", "value": "https://images-na.ssl-images-amazon.com/images/I/51nq2EGIfWL._AC_SL1200_.jpg" }, "titulo": { "type": "literal", "value": "ASUS Chromebook Z1500CN-EJ0165" }, "descripcion": { "type": "literal", "value": "Ordenador portátil de 15.6 FullHD (Intel Pentium N4200, 8GB RAM, 64GB EMMC)." }, "valoracion": { "type": "literal", "xml:lang": "es", "value": "★★★★★" }, "precio": { "type": "literal", "value": "499,99" }, "enlace": { "type": "literal", "xml:lang": "es", "value": "https://amzn.to/36FAR7a" }}
-  ] } }
-    
